@@ -1,0 +1,5 @@
+const title = 'Jack and Jill Went Up the Hill';
+
+console.log(title.startsWith('K',9)); 
+console.log(title.endsWith('l')); 
+console.log(title.includes('Jill'));
